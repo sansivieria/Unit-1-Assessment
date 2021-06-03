@@ -1,13 +1,14 @@
 body {
-  background-image: url("https://i.kym-cdn.com/photos/images/original/002/054/706/b20.gif");
+  background-image: url("https://thumbs.gfycat.com/UnrealisticHopefulEquine-max-1mb.gif");
   background-size: cover;
   text-align: center;
   font-family: 'Lato', sans-serif;
 }
 
+
 button {
   font-family: 'Lato', sans-serif;
-  font-size: 18px;
+  font-size: 36px;
   margin: 3px;
   padding: 13px;
   border-radius: 5%;
@@ -32,8 +33,9 @@ button:hover {
 
 input {
   font-size: 18px;
-  padding: 13px;
+  padding: 22px;
   text-align: center;
+  font-weight: bold;
   background-color: rgba(91, 63, 191, 0.21);
   border: 2px solid rgba(91, 63, 191, 0.36);
   border-radius: 5%;
